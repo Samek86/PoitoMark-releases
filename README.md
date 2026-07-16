@@ -14,6 +14,23 @@
 
 PoitoMark は、Markdown の閲覧・編集・整理をひとつの画面で行える Windows アプリです。単一の実行ファイルを置くだけで使い始められます。
 
+## スクリーンショット
+
+### 編集とプレビューを並べて確認
+
+<img src="assets/poitomark-split.webp" width="100%" alt="Markdownの編集画面とプレビューを並べた分割表示">
+
+<table>
+  <tr>
+    <td width="78%"><img src="assets/poitomark-preview.png" alt="Markdownの閲覧画面"></td>
+    <td width="22%"><img src="assets/poitomark-menu.png" alt="PoitoMarkのメインメニュー"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>読みやすい閲覧モード</strong></td>
+    <td align="center"><strong>機能へすぐアクセス</strong></td>
+  </tr>
+</table>
+
 ## 主な機能
 
 | | 機能 |
